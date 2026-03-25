@@ -91,3 +91,11 @@ Problem → Execution → Result
 Problem: High mismatch between demand and supply leading to low fulfillment
 Execution: Analyzed 6,700+ ride records using SQL, Python & Power BI to identify demand patterns and failure points
 Result: Identified a 3914 ride gap and 41.97% fulfillment rate, highlighting critical areas for improving driver allocation and reducing cancellations
+
+Uber_Supply_Demand.png
+## 📸 Dashboard Preview
+
+
+![Dashboard](## 📸 Dashboard Preview
+
+![Dashboard](images/dashboard.png)))
