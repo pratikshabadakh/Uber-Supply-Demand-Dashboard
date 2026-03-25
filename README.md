@@ -96,6 +96,4 @@ Uber_Supply_Demand.png
 ## 📸 Dashboard Preview
 
 
-![Dashboard](## 📸 Dashboard Preview
-
-![Dashboard](images/dashboard.png)))
+![Dashboard](Uber_Supply_Demand.png)
